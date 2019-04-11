@@ -1,0 +1,11 @@
+{
+  "name": "multi-state-service",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+  },
+  "private": true,
+  "dependencies": {
+    "rxjs": "^6.3.3"
+  }
+}
